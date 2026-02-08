@@ -51,7 +51,7 @@ const Index = () => {
         {
           title: "Mem0 AI",
           description: "Plataforma para criar memórias persistentes e controláveis para aplicações.",
-          url: "https://mem0.ai/openmemory-mcp",
+          url: "https://mem0.ai/",
           badge: "IA"
         },
         {
